@@ -84,15 +84,7 @@ To use this API, configure the following environment variables:
 
 - `IQ_API_KEY`: Your API key from [IQAir](https://www.iqair.com/fr/dashboard/api).
 
-Create a `.env` file in the project root directory and add your environment variables there.
-
-Example `.env` file:
 ```env
-IQ_API_KEY=your-api-key
-IQ_URL=https://api.airvisual.com/v2/nearest_city
-```
-
-```For Windows
 set IQ_API_KEY=a8bcef63-db6b-4c6a-883d-c901fe7e45b4
 set AirVisual_URL=https://api.airvisual.com/v2/nearest_city
 ```
