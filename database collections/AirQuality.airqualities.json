@@ -1,0 +1,3560 @@
+[{
+  "_id": {
+    "$oid": "6527a47500841b146e5d2dc3"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:47:01.294Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:47:01.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a4b1f0c6a05dd414fa45"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:48:01.355Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:48:01.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a4ecf0c6a05dd414fa48"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:49:00.999Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:49:00.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a529f0c6a05dd414fa4b"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:50:01.017Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:50:01.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a564f0c6a05dd414fa4e"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:51:00.932Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:51:00.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a5a151c89e8aea94fd88"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:52:01.369Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:52:01.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a6195df66e3a3f0b490c"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:54:01.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:54:01.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a655ea8f5f6fc8a20f55"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:55:01.427Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:55:01.428Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a691642ee3c1a688dcec"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:56:01.439Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:56:01.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a6cdb8a85914221659c3"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:57:01.368Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:57:01.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a709b8a85914221659c6"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:58:01.028Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:58:01.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a744b8a85914221659c9"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T07:59:00.958Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:59:00.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a78186290465d7a7c26f"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:00:01.483Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:00:01.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a7bd86290465d7a7c272"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:01:01.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:01:01.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a7f9895e23bc7c6bafb5"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:02:01.463Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:02:01.463Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a834895e23bc7c6bafb8"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:03:00.940Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:03:00.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a870895e23bc7c6bafbb"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:04:00.964Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:04:00.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a8ad9140fbdb18898d8f"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:05:01.364Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:05:01.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a8e93961e1928444514e"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:06:01.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:06:01.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a925290554c79c00dbe3"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "aqius": 61,
+      "mainus": "p2",
+      "aqicn": 51,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T07:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 81,
+      "ws": 4.63,
+      "wd": 250,
+      "ic": "10d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:07:01.302Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:07:01.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a99d87ec66ffd04563fd"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:09:01.421Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:09:01.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a9d945130191834ccf00"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:10:01.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:10:01.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527aa1545130191834ccf03"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:11:01.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:11:01.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527aa5045130191834ccf06"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:12:00.957Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:12:00.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527aa8d45130191834ccf09"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:13:01.126Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:13:01.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527aac945130191834ccf0c"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:14:01.389Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:14:01.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ab0445130191834ccf0f"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:15:01.001Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:15:01.001Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ab8d45130191834ccf12"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:17:17.542Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:17:17.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ab8d45130191834ccf14"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:17:17.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:17:17.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527abb945130191834ccf18"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:18:01.041Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:18:01.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527abf545130191834ccf1b"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:19:01.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:19:01.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ac3145130191834ccf1e"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:20:01.003Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:20:01.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ac6d45130191834ccf21"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:21:01.401Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:21:01.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527aca945130191834ccf24"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:22:01.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:22:01.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ace52fa3ca64637d0d95"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:23:01.408Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:23:01.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ad202fa3ca64637d0d99"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:24:00.928Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:24:00.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ad5d2fa3ca64637d0d9c"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:25:01.301Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:25:01.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ad992fa3ca64637d0d9f"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:26:01.313Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:26:01.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527add52fa3ca64637d0da2"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:27:01.308Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:27:01.308Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ae102fa3ca64637d0da5"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:28:00.890Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:28:00.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ae4d2fa3ca64637d0da8"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:29:01.318Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:29:01.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527ae892fa3ca64637d0dab"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:30:01.247Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:30:01.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527aec42fa3ca64637d0dae"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:31:00.952Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:31:00.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527af012fa3ca64637d0db1"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:32:01.344Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:32:01.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527af3d2fa3ca64637d0db4"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:33:01.019Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:33:01.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527af782fa3ca64637d0db7"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 39,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:34:00.985Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:34:00.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527afb52fa3ca64637d0dba"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:35:01.315Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:35:01.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527aff1599e5d98fbcf8348"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:36:01.454Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:36:01.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b02c599e5d98fbcf834d"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:37:00.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:37:00.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b0688ce08858d6f71652"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:38:00.971Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:38:00.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b0a53519b70598be2615"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:39:01.387Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:39:01.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b0e1e14b2d970bfaeb03"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:40:01.273Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:40:01.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b11ce14b2d970bfaeb08"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:41:00.982Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:41:00.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b159e14b2d970bfaeb0b"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:42:01.277Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:42:01.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b195e14b2d970bfaeb0e"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:43:01.309Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:43:01.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b1d0e14b2d970bfaeb11"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:44:00.944Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:44:00.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b2c168b431a1e2e0a45f"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:48:01.307Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:48:01.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b3390e3bc97fb58ca464"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:50:01.673Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:50:01.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b3740e3bc97fb58ca46a"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:51:00.982Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:51:00.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b3b00e3bc97fb58ca46d"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:52:00.984Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:52:00.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b3ec0e3bc97fb58ca470"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:53:00.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:53:00.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b4290e3bc97fb58ca473"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:54:01.065Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:54:01.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b4640e3bc97fb58ca476"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:55:00.992Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:55:00.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b4a10e3bc97fb58ca479"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:56:01.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:56:01.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b4dd0e3bc97fb58ca47c"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:57:01.015Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:57:01.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b5190e3bc97fb58ca47f"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:58:01.045Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:58:01.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b5550e3bc97fb58ca482"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T08:59:01.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T08:59:01.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b5910e3bc97fb58ca485"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:00:01.350Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:00:01.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b5cd0e3bc97fb58ca488"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:01:01.407Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:01:01.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b6090e3bc97fb58ca48b"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:02:01.228Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:02:01.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b6450e3bc97fb58ca48e"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 23,
+      "maincn": "p2"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:03:01.305Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:03:01.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b6800e3bc97fb58ca491"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 45,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:04:00.864Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:04:00.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b6bd0e3bc97fb58ca494"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 45,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:05:01.347Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:05:01.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b6f80e3bc97fb58ca497"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 59,
+      "mainus": "p2",
+      "aqicn": 45,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:06:00.912Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:06:00.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b7340e3bc97fb58ca49a"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T08:00:00.000Z",
+      "tp": 16,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 190,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:07:00.964Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:07:00.964Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b7710e3bc97fb58ca49d"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:08:01.014Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:08:01.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b7ac0e3bc97fb58ca4a0"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:09:00.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:09:00.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b7e90e3bc97fb58ca4a3"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:10:01.023Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:10:01.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b8250e3bc97fb58ca4a6"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:11:01.016Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:11:01.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527b8600e3bc97fb58ca4a9"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:12:00.981Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:12:00.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bade0e3bc97fb58ca4ac"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:22:38.402Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:22:38.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bade0e3bc97fb58ca4ae"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:22:38.407Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:22:38.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bade0e3bc97fb58ca4b4"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:22:38.421Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:22:38.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bade0e3bc97fb58ca4b0"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:22:38.411Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:22:38.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bade0e3bc97fb58ca4b2"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:22:38.416Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:22:38.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bb310e3bc97fb58ca4bb"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:24:01.293Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:24:01.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bb6c0e3bc97fb58ca4be"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:25:00.953Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:25:00.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bba80e3bc97fb58ca4c1"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:26:00.974Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:26:00.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527bbe50e3bc97fb58ca4c4"
+  },
+  "city": "Paris",
+  "state": "Ile-de-France",
+  "country": "France",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      2.351666,
+      48.859425
+    ]
+  },
+  "current": {
+    "pollution": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "aqius": 63,
+      "mainus": "p2",
+      "aqicn": 38,
+      "maincn": "p1"
+    },
+    "weather": {
+      "ts": "2023-10-12T09:00:00.000Z",
+      "tp": 17,
+      "pr": 1016,
+      "hu": 91,
+      "ws": 2.57,
+      "wd": 180,
+      "ic": "04d"
+    }
+  },
+  "createdAt": {
+    "$date": "2023-10-12T09:27:01.343Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T09:27:01.344Z"
+  },
+  "__v": 0
+}]

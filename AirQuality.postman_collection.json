@@ -1,0 +1,91 @@
+{
+	"info": {
+		"_postman_id": "50cb06ae-fd8f-4697-840b-f5673158d8cf",
+		"name": "AirQuality",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "831271"
+	},
+	"item": [
+		{
+			"name": "Get Latest Air Quality Timestamp",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/airQuality/timestamp",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"airQuality",
+						"timestamp"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch Air Quality for Cities",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{url}}/airQuality/cities?latitude=48.856613&longitude=2.352222",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"airQuality",
+						"cities"
+					],
+					"query": [
+						{
+							"key": "latitude",
+							"value": "48.856613"
+						},
+						{
+							"key": "longitude",
+							"value": "2.352222"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Paris Most Polluted Time",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "url",
+			"value": "http://localhost:3000/",
+			"type": "string"
+		}
+	]
+}
