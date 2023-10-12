@@ -89,9 +89,13 @@ Create a `.env` file in the project root directory and add your environment vari
 Example `.env` file:
 ```env
 IQ_API_KEY=your-api-key
-IQ_URL=
+IQ_URL=https://api.airvisual.com/v2/nearest_city
 ```
 
+```For Windows
+set IQ_API_KEY=a8bcef63-db6b-4c6a-883d-c901fe7e45b4
+set AirVisual_URL=https://api.airvisual.com/v2/nearest_city
+```
 ## Testing
 
 Run unit tests with the following command:
