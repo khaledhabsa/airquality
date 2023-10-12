@@ -125,18 +125,3 @@ You can run the Air Quality REST API using Docker, which provides an isolated an
 4. **Access the API**:
 
    The API will be available at `http://localhost:3000`. You can make HTTP requests to the endpoints as described in the [Usage](#usage) section.
-
-Please note that the `.env` file should be in the same directory as your project's root for Docker to access the required environment variables.
-
-By following these steps, you can run the Air Quality REST API in a Docker container, providing a consistent and containerized environment for your application.
-
-## Contributing
-
-You are welcome to contribute to this project. Please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This README includes information on how to use Docker to run the application, along with all the other details you provided. Please replace `"your-username"` with the actual GitHub repository owner's username in the URLs.
