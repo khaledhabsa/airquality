@@ -1,7 +1,7 @@
 import schedule from 'node-schedule';
-import { airQualityCitiesService } from '../components/air/airQuality.service';
+import { airQualityCitiesService } from '../components/cityairquality/cityAirQuality.service';
 import MostPollutedRecord from '../models/mostPollutedRecord.model';
-import AirQuality from '../models/airQuality.model';
+import AirQuality from '../models/cityAirQuality.model';
 import config from 'config';
 
 // Constants

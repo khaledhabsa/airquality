@@ -1,6 +1,6 @@
 import axios from 'axios';
 import config from 'config';
-import AirQuality from '../../models/airQuality.model';
+import AirQuality from '../../models/cityAirQuality.model';
 
 // Ensure environment variables are loaded from a .env file
 require('dotenv').config();

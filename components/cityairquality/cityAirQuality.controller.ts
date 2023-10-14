@@ -1,5 +1,5 @@
 import { Response, Request } from 'express';
-import { airQualityCitiesService, getParisAirQualityTimestamp } from './airQuality.service';
+import { airQualityCitiesService, getParisAirQualityTimestamp } from './cityAirQuality.service';
 import MostPollutedRecord from '../../models/mostPollutedRecord.model';
 
 // Define the LonLat type

@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { airQualityCities ,parisAirQuality, mostPollutedDatetime } from "./airQuality.controller";
+import { airQualityCities ,parisAirQuality, mostPollutedDatetime } from "./cityAirQuality.controller";
 const router = Router();
 
 router.get('/cities',airQualityCities);

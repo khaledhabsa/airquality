@@ -56,7 +56,17 @@
 			"name": "Paris Most Polluted Time",
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": "{{url}}/airQuality/mostPollutedDatetime",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"airQuality",
+						"mostPollutedDatetime"
+					]
+				}
 			},
 			"response": []
 		}

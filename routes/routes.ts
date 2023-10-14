@@ -1,10 +1,10 @@
 import { Express } from 'express';
 import 'express-async-errors';
-import errorHandler from '../middelwares/error'
+import errorHandler from '../middelwares/errorHandling'
 import compression from "compression";
 import bodyParser from "body-parser";
 
-import airQuality from '../components/air/airQuality.route';
+import airQuality from '../components/cityairquality/cityAirQuality.route';
   
 const routes = (app:Express) =>{    
     app.use(compression());
